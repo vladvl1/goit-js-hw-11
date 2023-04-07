@@ -94,16 +94,16 @@ function renderingGallery(img) {
         
         <div class="info">
             <p class="info-item">
-                <b class="info-item__statistic"><b>Likes:</b>${likes}</b>
+                <b class="info-item__statistic"><b>Likes:</b>        ${likes}</b>
             </p>
             <p class="info-item">
-                <b class="info-item__statistic"><b>Views:</b>${views}</b>
+                <b class="info-item__statistic"><b>Views:</b>        ${views}</b>
             </p>
             <p class="info-item">
-                <b class="info-item__statistic"><b>Comments:</b>${comments}</b>
+                <b class="info-item__statistic"><b>Comments:</b>        ${comments}</b>
             </p>
             <p class="info-item">
-                <b class="info-item__statistic"><b>Downloads:</b>${downloads}</b>
+                <b class="info-item__statistic"><b>Downloads:</b>        ${downloads}</b>
             </p>
         </div>
         </div>
